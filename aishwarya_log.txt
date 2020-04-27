@@ -1,0 +1,13 @@
+I logged into GitHub with my account.
+Opened the GitHub repository which link was sent to work.
+https://github.com/chakki1234/sop-task-0.git
+Clicked the Fork button on the upper right-hand side of the repository’s page.
+     *A fork is a copy of a repository. 
+     *Forking a repository allows you to freely experiment with changes without affecting the original project.
+Then Under the repository name, click Clone or download.
+     *Cloning a repository means that you're downloading a copy of the source code from source control
+     *Having a copy in the local computer
+To clone the repository using HTTPS, under "Clone with HTTPS"
+In the repository.Click the branch selector menu.To create a new branch called firstname_lastname
+    *A branch is essentially is a unique set of code changes with a unique name
+    *master branch has the main deployabe branch.Like main function in c++
