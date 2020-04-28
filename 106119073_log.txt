@@ -1,1 +1,31 @@
-Some Text
+$git clone <url> 
+used to clone the repo into my computer
+
+$git checkout -b marmik_upadhyay
+used to make and change to branch named <marmik_upadhyay>
+
+touch 106119073_log.txt
+touch 106119073.txt
+used to make new files
+
+$git checkout -b branch2
+made and changed to second branch
+
+$git add . 
+used to add everything
+
+$git status
+shows the current status of the files added
+
+$git commit -m '<Message>' 
+used to commit
+
+$git merge branch2
+used to merge branches to the current branch
+
+$git push origin marmik_upadhyay
+pushed the things to the repository
+
+$git pull <url>
+used to pull the recent most repo
+
