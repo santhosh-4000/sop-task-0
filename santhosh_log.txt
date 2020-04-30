@@ -1,0 +1,11 @@
+List of git bash commands I used:
+git clone ->for cloning repo into local system
+git add -A ->to add all changes in directory to staging
+git commit -m"" ->to commit all changes to local repo
+git branch ->to display  branches (* appears on branch that HEAD points)
+git branch <branch name> ->to create new branch with name inside <>
+git checkout <branch name> ->to switch to branch named <>
+git status:to check status of files in repo
+git push  :to push changes from local repo to remote repo
+git merge <branch name>:to merge <>branch to current branch
+git-pull:to pull changes from remote to local repo and directory
