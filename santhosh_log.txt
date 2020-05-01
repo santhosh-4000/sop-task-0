@@ -8,4 +8,7 @@ git checkout <branch name> ->to switch to branch named <>
 git status:to check status of files in repo
 git push  :to push changes from local repo to remote repo
 git merge <branch name>:to merge <>branch to current branch
-git-pull:to pull changes from remote to local repo and directory
+git pull:to pull changes from remote to local repo and directory
+git pull https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git BRANCH_NAME ->to merge to local repo from upstream 
+
+
